@@ -1,17 +1,16 @@
-Good Form HTML Commandments
+Comp 20 - Homework #1
 ===========================
 
-1. Thou shall not use the extension .htm.
-2. Thou shall not use whitepace in file name.
-3. Thou shall not use uppercase letters in file name.
-4. Thou shall encode reserved characters such as &, <, and > with respective HTML entity.
-5. Thou shall close all tags (some tags open and close in one).
-6. Thou shall close the most recently opened tag first, thus proper nesting.
-7. Thou shall surround values for attributes with double quotes.
-8. Thou shall never forget important attributes for some HTML tags (e.g., alt for <img>).
-9. Thou shall not use HTML for styling (e.g., <center>, border attribute).
-10. Thou shall not use inline styling in HTML.
-11. Thou shall not absolute URIs all the time.
-12. Thou shall not write too many HTML comments.
-13. Thou shall always give an HTML page a title in the <head> section.
-14. Thou shall always validate HTML markup at http://validator.w3.org/.
+I had a lot of fun to build this website. 
+
+There are 3 HTML file as requested (index.html, bio.html, resume.html) and from the main page you can get access to the later two pages.
+
+I have one CSS file for the index.html, which contains more than 10 rules. In the CSS file I created some classes to precisely control the styling. I also practised how to apply google font, how to pick up my favorite color, etc. in CSS. 
+
+Also, I put a link to another website of mine (fangzhengguo.com) which I got several month ago, but I don't know much about Web Design at that time. By taking Comp 20, I am very confident to make it much better in the future.
+
+I get lots of inspirations from Kate's Example and by looking at some most famous personal website. There is plenty room to improve.
+
+Thanks,
+Fangzheng Guo
+9/29/15
