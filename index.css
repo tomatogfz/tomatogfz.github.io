@@ -2,9 +2,8 @@
 body {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 20px;
-	margin-left: 5%;
-	margin-right: 5%;
-
+	margin-left: 25%;
+	margin-right: 25%;
 	font-family: 'Josefin Sans', sans-serif;
 	background-color: #E8F4FF;
 }
@@ -26,6 +25,7 @@ h1 {
     color: lightblue;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:300%;
+    text-align: center
 }
 
 
@@ -33,22 +33,32 @@ h2 {
     color:white;
     font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
     font-size:100%;
+    text-align: center
+}
+
+p{
+	display: block;
+    margin-left: auto;
+    margin-right: auto
 }
 
 .resume {
 	background-color: white;
 	margin-bottom: 1.4em;
 	font-family: 'Poiret One', cursive;
+	text-align: center
 }
 
 .bio {
 	background-color: white;
 	margin-bottom: 1.4em;
 	font-family: 'Poiret One', cursive;
+	text-align: center
 }
 
 .email {
 	background-color: yellow;
 	margin-bottom: 1.4em;
 	font-family: 'Poiret One', cursive;
+	text-align: center
 }

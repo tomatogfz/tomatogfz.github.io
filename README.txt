@@ -13,7 +13,7 @@ It turned out that I spent 30% of time on designing the format and picking my fa
 
 Also, I put a link to another website of mine (fangzhengguo.com) which I got several month ago, but I don't know much about Web Design at that time. By taking Comp 20, I am very confident to make it much better in the future.
 
-I get lots of inspirations from Kate's Example and by looking at some most famous personal website. There is plenty room to improve.
+I get lots of inspirations from Kate's Example and by looking at some most famous personal website (http://www.kristagray.com/, http://www.devonstank.com/bravo-group, etc. ), from which I definitely feel that there is plenty room to improve.
 
 Thanks,
 Fangzheng Guo
