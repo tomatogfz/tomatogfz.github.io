@@ -38,4 +38,17 @@ h2 {
 .resume {
 	background-color: white;
 	margin-bottom: 1.4em;
+	font-family: 'Poiret One', cursive;
+}
+
+.bio {
+	background-color: white;
+	margin-bottom: 1.4em;
+	font-family: 'Poiret One', cursive;
+}
+
+.email {
+	background-color: yellow;
+	margin-bottom: 1.4em;
+	font-family: 'Poiret One', cursive;
 }
